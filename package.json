@@ -1,0 +1,11 @@
+{
+  "name": "js-review",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/duwonyi/js-review.git",
+  "author": "Doowon Lee <Doowon.Lee@uxpsystems.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
